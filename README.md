@@ -1,6 +1,6 @@
 # Web Development Project 2 - *Emoji Movie Flashcards*
 
-Submitted by: **Vanessa**
+Submitted by: **Vanessa Balbuena**
 
 This web app: **If you want to test your knowledge on movies from a series of emojis, this is a fun quiz you can take!**
 
