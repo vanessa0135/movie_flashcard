@@ -2,6 +2,7 @@ import { useState } from 'react';
 
 const Card = ({ card }) => {
   const [flip, setFlip] = useState(false);
+  const [answer, setAnswer] = useState("");
 
   return (
     /* i got some help from cluade to help me with dividing the div classes with corresponding styling 
