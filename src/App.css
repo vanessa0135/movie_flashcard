@@ -22,3 +22,12 @@ button{
  border-radius: 5px;
  width: 50px;
 }
+
+input.correct {
+  border: 3px solid rgb(3, 232, 3);
+}
+
+input.wrong {
+  border: 3px solid red;
+}
+
